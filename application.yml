@@ -5,4 +5,6 @@
 # /{application}-{profile}.properties
 # Remember no profile = default
 
+# The properties in this file are global - all applications will get them
+
 foo: bar
