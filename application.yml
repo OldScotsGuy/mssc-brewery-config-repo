@@ -1,1 +1,8 @@
+# REST End point options for specifying properties
+
+# /{application}/{profile}   - method used in this repo
+# /{application}-{profile}.yml
+# /{application}-{profile}.properties
+# Remember no profile = default
+
 foo: bar
